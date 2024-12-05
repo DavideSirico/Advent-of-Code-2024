@@ -4,7 +4,6 @@ using namespace std;
 
 int main() {
     fstream in;
-    fstream out;
 
     in.open("../input.txt", ios::in);
 
