@@ -1,3 +1,5 @@
 output
 *.dSYM
 .vscode
+**/short.txt
+**/long.txt
